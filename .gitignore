@@ -2,4 +2,4 @@ archivo_temporal.txt
 *.zip
 log/*.log
 images/*
-!images/logo.jpg
+images/logo.jpg
